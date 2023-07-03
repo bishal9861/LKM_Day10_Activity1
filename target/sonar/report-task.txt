@@ -1,0 +1,6 @@
+projectKey=com.accenture.lkm:customplugindemo
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.lkm:customplugindemo
+ceTaskId=AYkbL9ECoLn9i7leC8cd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYkbL9ECoLn9i7leC8cd
